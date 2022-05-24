@@ -2,10 +2,6 @@ Hi this is hyoeun's github ~~ 👋
 
 ⭐️ Hyoeun ⭐️
 </br>
-<div style="left">
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square"/>
-
- </div>
  
 
 📝 Studying 📝 
