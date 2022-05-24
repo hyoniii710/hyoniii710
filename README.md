@@ -1,7 +1,7 @@
 Hi this is hyoeun's github ~~ 👋
 
 ⭐️ Hyoeun ⭐️
- <img src="https://img.shields.io/badge/tistory-#000000?/> 
+
 
 📝 Studying 📝
  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/> 
