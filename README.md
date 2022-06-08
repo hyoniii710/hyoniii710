@@ -1,4 +1,5 @@
-Hi this is hyoeun's github ~~ 👋
+안녕하세요 프론트엔드 개발자를 지망하는 </br> 
+김효은의 깃허브입니다 ~~ 👋 </br>
 
 ⭐️ Hyoeun ⭐️
 </br>
